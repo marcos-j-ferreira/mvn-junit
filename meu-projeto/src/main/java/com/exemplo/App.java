@@ -9,8 +9,8 @@ public class App
 
         Soma s1 = new Soma();
 
-        int a = s1.somaa(10,20);
-
+        int a = s1.somar(10,20);
+                    
         System.out.println("A soma de ambos os números é: "+ a);
         
     }
