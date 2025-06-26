@@ -1,13 +1,17 @@
 package com.exemplo;
 
-/**
- * Hello world!
- *
- */
+import com.exemplo.model.Soma;
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
+        Soma s1 = new Soma();
+
+        int a = s1.somaa(10,20);
+
+        System.out.println("A soma de ambos os números é: "+ a);
+        
     }
 }

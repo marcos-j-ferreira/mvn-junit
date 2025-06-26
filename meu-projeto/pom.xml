@@ -5,6 +5,7 @@
   <artifactId>meu-projeto</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
+  
   <name>meu-projeto</name>
   <url>http://maven.apache.org</url>
   

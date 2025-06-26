@@ -21,3 +21,7 @@ As duas opções são validas, na primeira você tem mais organização.
 mvn archetype:generate -DgroupId=com.exemplo -DartifactId=meu-projeto -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
 ```
+
+## Observações importantes
+
+ - **Note:** É de grande importância ignorar arquivos desnecessario no build 
