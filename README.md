@@ -146,3 +146,8 @@ src/
     ```
 
 ---
+
+
+## Sobre Teste com JUnit
+
+[informações sobre Teste](./meu-projeto/src/test/java/com/exemplo/NOTE.md)
